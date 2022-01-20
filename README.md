@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a 10 year experienced accountant who decided to leave his safe spot to pursue his dream of making a living from what he is excited about.
+I am hungry for knowledge and eager to be part of a field that is moving forward constantly.
+
+- 🔭 I’m currently working in a software delopment company as Manager in the Accounting and finance  department 
+- 🌱 I’m currently learning Programming foundamentals, Python and web development with Django.
+
+- 📫 How to reach me: jmsiro@gmail.com - +54 9 358 5088543
+
 <!--
 **jmsiro/jmsiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
