@@ -1,10 +1,9 @@
 ### Hi there 👋
 
-I am a 10 year experienced accountant who decided to leave his safe spot to pursue his dream of making a living from what he is excited about.
-I am hungry for knowledge and eager to be part of a field that is moving forward constantly.
+I am an accountant, after 10 years working in the field I realized that this is not where I want to be. I decided to start all over again to become a developer, a career that passions me, makes me move forward and leaves me always wanting more. I am hungry for knowledge,  willing to grow and be part of a field that is constantly evolving.
 
 - 🔭 I’m currently working in a software delopment company as Manager in the accounting and finance department 
-- 🌱 I’m currently learning Programming foundamentals, Python and web development with Django.
+- 🌱 I’m currently learning Programming foundamentals, Python and web development with Django. Also, AWS foundamentals.
 
 - 📫 How to reach me: jmsiro@gmail.com - +54 9 358 5088543
 
